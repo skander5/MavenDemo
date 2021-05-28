@@ -4,7 +4,7 @@
   <artifactId>maven-demo</artifactId>
   <version>1.0</version>
   <name>maven-demo</name>
-  <description>maven-demo</description>
+  <description>maven-demo</description> 
   
   <properties>
   	<maven.compiler.source>1.8</maven.compiler.source>
